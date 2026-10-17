@@ -13,28 +13,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-**What Skills I Know**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### Contact me
-
-
-**[☭ⒶSMILEDEMICⒶ☭ــــــــﮩ٨ـ](https://discord.com/users/1532986870475002046) · [Ankom Studios](https://ankomstudios.com/smiledemic/) · [Spotify](https://open.spotify.com/artist/01JJmyvW0JjxC0fpLurTAR?si=hj2tc54KQZm89fQGDh3ECg)**
-
-</div>
